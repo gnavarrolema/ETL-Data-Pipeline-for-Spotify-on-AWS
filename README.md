@@ -39,7 +39,8 @@ This repository contains an ETL (Extract, Transform, Load) data pipeline built o
 1.  **Clone this repository**:
 
 ```bash
-    git clone https://github.com/yourusername/spotify-data-pipeline.git cd spotify-data-pipeline
+    git clone https://github.com/gnavarrolema/ETL-Data-Pipeline-for-Spotify-on-AWS.git
+    cd ETL-Data-Pipeline-for-Spotify-on-AWS
 ```
 2.  **Set up AWS Services**:
     -   Create two Lambda functions:
